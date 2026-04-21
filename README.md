@@ -18,3 +18,8 @@ A clean, minimal dictionary web app thatlets you search for word definitions,exa
 1. Type a word in the search bar.
 2. Press the search button or hit enter.
 3. View the results instantly.
+
+## Future Improvements
+-Add word antonyms.
+-SAve search history.
+-Add dark mode
